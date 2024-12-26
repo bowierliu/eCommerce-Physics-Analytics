@@ -5,7 +5,7 @@ This project explores how principles from physics can be applied to e-commerce a
 
 ---
 
-## Physics-Inspired Applications
+## Physics-Inspired Application
 1. **Customer-Product Interaction Force**  
    - Formula: **F = (G × m₁ × m₂) / r²**  
    - Measures the "attraction" between customers and products based on spending, revenue, and recency.  
